@@ -1,0 +1,21 @@
+# 1. Point to your specific model file
+FROM ./vizwiz_assistant_q4_k_m.gguf
+
+# 2. Set the context window (4096 is standard, 8192 if you have more RAM)
+PARAMETER num_ctx 4096
+
+# 3. Define the Qwen/ChatML template
+# This ensures the model knows where the User ends and Assistant begins.
+TEMPLATE """{{ if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{ if .Prompt }}<|im_start|>user
+{{ .Prompt }}<|im_end|>
+{{ end }}<|im_start|>assistant
+"""
+
+# 4. Set the Stop sequences so the model doesn't talk to itself
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+
+# 5. (Optional) Default System Message
+SYSTEM "You are a helpful visual assistant capable of analyzing images and describing them in detail."

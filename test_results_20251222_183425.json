@@ -1,0 +1,1102 @@
+[
+  {
+    "image": "VizWiz_train_00003250.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003250.jpg",
+    "question": "What product is this?",
+    "answer": "I'm sorry, I cannot answer this question because the image has been blurred, darkened or is blurry/indistinct due to poor lighting conditions.",
+    "quality": {
+      "length": 22,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003250.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003250.jpg",
+    "question": "What color is this?",
+    "answer": "It is black with yellow.",
+    "quality": {
+      "length": 5,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003250.jpg",
+    "question": "Describe this image.",
+    "answer": "This is an image that appears to be a photo or drawing of a girl, possibly from the 1940s. she has long dark hair that falls over her shoulders with bangs coming down in front of her eyes and is wearing glasses. she is dressed in what looks like old-fashioned clothing.",
+    "quality": {
+      "length": 51,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010520.jpg",
+    "question": "What is this?",
+    "answer": "a person wearing a black shirt, blue shorts, brown shoes, yellow socks with white stripes on it, green gloves, and a red bow on his neck. he is holding something in both hands, which appears to be a small toy or an object of some sort.",
+    "quality": {
+      "length": 46,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010520.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010520.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010520.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010520.jpg",
+    "question": "Describe this image.",
+    "answer": "This is an image of a black and white cat standing on a red carpet, looking towards the camera with its mouth open and tongue out. The background is blurred.",
+    "quality": {
+      "length": 30,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00000515.jpg",
+    "question": "What is this?",
+    "answer": "I can't answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00000515.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00000515.jpg",
+    "question": "What flavor is this?",
+    "answer": "I am unable to answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 19,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00000515.jpg",
+    "question": "What color is this?",
+    "answer": "white with black highlights  [color] white [end color]",
+    "quality": {
+      "length": 8,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00000515.jpg",
+    "question": "Describe this image.",
+    "answer": "This is a picture of the world map. The world map shows all continents, major countries, oceans, rivers, lakes etc.",
+    "quality": {
+      "length": 20,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002939.jpg",
+    "question": "What is this?",
+    "answer": "I cannot see the image you have sent me",
+    "quality": {
+      "length": 9,
+      "has_description": false,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002939.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002939.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image has been blurred, darkened or obscured.",
+    "quality": {
+      "length": 14,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002939.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002939.jpg",
+    "question": "Describe this image.",
+    "answer": "A black and white cat sitting on top of the back seat of a car while looking down at the floor .",
+    "quality": {
+      "length": 22,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00004427.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00004427.jpg",
+    "question": "What product is this?",
+    "answer": "I am sorry, I cannot answer this question because the image is blurry, dark, or darkly colored, dark grayscale, darkened, blurred,\u626d\u66f2, black and white, or the subject is not visible.",
+    "quality": {
+      "length": 30,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00004427.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00004427.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00004427.jpg",
+    "question": "Describe this image.",
+    "answer": "A black cat sitting on the ground next to a blue couch, next to a glass window with a few leaves hanging by the side of it and the bottom is black.",
+    "quality": {
+      "length": 32,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00018898.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00018898.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00018898.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00018898.jpg",
+    "question": "What color is this?",
+    "answer": "The image is blurry, dark, and shows no clear details, so I cannot answer what color it is.",
+    "quality": {
+      "length": 18,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00018898.jpg",
+    "question": "Describe this image.",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00022161.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00022161.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00022161.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00022161.jpg",
+    "question": "What color is this?",
+    "answer": "the background on the object that you have highlighted is white, with black text on top. there is also a blue circle around it.  I am unable to see any other colors.",
+    "quality": {
+      "length": 32,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00022161.jpg",
+    "question": "Describe this image.",
+    "answer": "I need to see the picture before I can describe it.",
+    "quality": {
+      "length": 11,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011747.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011747.jpg",
+    "question": "What product is this?",
+    "answer": "I can't answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011747.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011747.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011747.jpg",
+    "question": "Describe this image.",
+    "answer": "This is an image with background. there is white light shining on the back wall.",
+    "quality": {
+      "length": 15,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003662.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003662.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003662.jpg",
+    "question": "What flavor is this?",
+    "answer": "I am sorry, but I cannot answer this question because the image is blurry, dark, or the subject is not visible. Also the subject is not centered in the picture. Please try again.",
+    "quality": {
+      "length": 33,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003662.jpg",
+    "question": "What color is this?",
+    "answer": "red",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003662.jpg",
+    "question": "Describe this image.",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017770.jpg",
+    "question": "What is this?",
+    "answer": "I cannot see the image, please upload it for me to analyze. Thank you",
+    "quality": {
+      "length": 14,
+      "has_description": false,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017770.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017770.jpg",
+    "question": "What flavor is this?",
+    "answer": "I'm sorry, but I cannot answer this question because the image has been blurred or obscured.",
+    "quality": {
+      "length": 16,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017770.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017770.jpg",
+    "question": "Describe this image.",
+    "answer": "Sure, what is the object?",
+    "quality": {
+      "length": 5,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00009567.jpg",
+    "question": "What is this?",
+    "answer": "I can't answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00009567.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image has been cut off or blurred. Please try again.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00009567.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00009567.jpg",
+    "question": "What color is this?",
+    "answer": "I can't tell you what color it is, I don't know which image you're referring to.",
+    "quality": {
+      "length": 16,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00009567.jpg",
+    "question": "Describe this image.",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001464.jpg",
+    "question": "What is this?",
+    "answer": "This is a [unanswerable question]",
+    "quality": {
+      "length": 5,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001464.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image has been blurred, cropped, or darkened.",
+    "quality": {
+      "length": 14,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001464.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001464.jpg",
+    "question": "What color is this?",
+    "answer": "The background, it seems like white.",
+    "quality": {
+      "length": 6,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001464.jpg",
+    "question": "Describe this image.",
+    "answer": "This is a picture of a girl with long black hair, who is sitting on the floor with her eyes closed. She is wearing a pink sweater, white shorts, and blue sneakers. beside the girl there are two black shoes that she took off. behind the girl, you can see another person's feet in the air.",
+    "quality": {
+      "length": 56,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00012082.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00012082.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00012082.jpg",
+    "question": "What flavor is this?",
+    "answer": "This image does not have any objects for me to describe it as it is blank white.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00012082.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot see the image. If you describe it, I will do my best to help you.",
+    "quality": {
+      "length": 17,
+      "has_description": false,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00012082.jpg",
+    "question": "Describe this image.",
+    "answer": "This is an image showing the moon, stars and clouds with the earth in view from space.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002861.jpg",
+    "question": "What is this?",
+    "answer": "I am not able to answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 20,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002861.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002861.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002861.jpg",
+    "question": "What color is this?",
+    "answer": "white",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00002861.jpg",
+    "question": "Describe this image.",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00020068.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00020068.jpg",
+    "question": "What product is this?",
+    "answer": "I'm sorry, but I cannot answer this question because the image you are referring to has been cut off or blurry, and therefore unable to be described. Please resend a complete picture.",
+    "quality": {
+      "length": 32,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00020068.jpg",
+    "question": "What flavor is this?",
+    "answer": "unanswerable",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00020068.jpg",
+    "question": "What color is this?",
+    "answer": "Blue",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00020068.jpg",
+    "question": "Describe this image.",
+    "answer": "The image is dark with the color green on some objects, light grey and white on others, black text on the top left corner which has been blurred out to protect privacy. On a surface there are two clear plastic containers in the center of the photo, both with green tops. They contain clear liquid, but it appears that the image is blurry. There is dark material at either side of them. In front and behind this area is what I think may be white fabric, possibly from a tablecloth or piece of clothing.",
+    "quality": {
+      "length": 94,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011185.jpg",
+    "question": "What is this?",
+    "answer": "I can't see any image, so I cannot answer what it is.",
+    "quality": {
+      "length": 12,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011185.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011185.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011185.jpg",
+    "question": "What color is this?",
+    "answer": "blue",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00011185.jpg",
+    "question": "Describe this image.",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003249.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003249.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003249.jpg",
+    "question": "What flavor is this?",
+    "answer": "This seems to be vanilla flavored",
+    "quality": {
+      "length": 6,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003249.jpg",
+    "question": "What color is this?",
+    "answer": "green, black",
+    "quality": {
+      "length": 2,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00003249.jpg",
+    "question": "Describe this image.",
+    "answer": "This is an image of the cityscape, with tall buildings and streets.",
+    "quality": {
+      "length": 12,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001987.jpg",
+    "question": "What is this?",
+    "answer": "it looks like a piece of cake with chocolate frosting",
+    "quality": {
+      "length": 10,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001987.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001987.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001987.jpg",
+    "question": "What color is this?",
+    "answer": "blue",
+    "quality": {
+      "length": 1,
+      "has_description": false,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00001987.jpg",
+    "question": "Describe this image.",
+    "answer": "This is a black screen with white text on it.",
+    "quality": {
+      "length": 10,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017816.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017816.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible. Please try again.",
+    "quality": {
+      "length": 20,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017816.jpg",
+    "question": "What flavor is this?",
+    "answer": "I can't tell what the flavor is, since there is no visible information that could be used to determine its flavor.",
+    "quality": {
+      "length": 21,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017816.jpg",
+    "question": "What color is this?",
+    "answer": "The image is white",
+    "quality": {
+      "length": 4,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00017816.jpg",
+    "question": "Describe this image.",
+    "answer": "The picture is a dark blue background with a white object floating on it. the object is a square, about 5 inches wide. The upper right corner has an arrow pointing upwards from left to right. It is angled at about 30 degrees. There are no visible details or text in this image.",
+    "quality": {
+      "length": 53,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010769.jpg",
+    "question": "What is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010769.jpg",
+    "question": "What product is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010769.jpg",
+    "question": "What flavor is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010769.jpg",
+    "question": "What color is this?",
+    "answer": "I cannot answer this question because the image is blurry, dark, or the subject is not visible.",
+    "quality": {
+      "length": 17,
+      "has_description": true,
+      "refuses": true,
+      "hallucination": false
+    }
+  },
+  {
+    "image": "VizWiz_train_00010769.jpg",
+    "question": "Describe this image.",
+    "answer": "The object is black, has a round shape, and appears to be made from plastic or metal. It is currently standing on top of an object that could possibly be a stool. There are several holes for screws along the outside edge of it. The background objects include two white objects in front of it with red stripes, three green objects behind them, and one gray object slightly to its left.",
+    "quality": {
+      "length": 71,
+      "has_description": true,
+      "refuses": false,
+      "hallucination": false
+    }
+  }
+]
